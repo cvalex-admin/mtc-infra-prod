@@ -1,2 +1,2 @@
-# mtc-infra-prod
- terraform Code for MTC with file main.tf
+This is a prod terraform repository is for infra developer. 
+The infra was last modified by: Aleksandar Cvetkovic
